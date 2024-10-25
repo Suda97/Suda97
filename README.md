@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Suda97
 - 👀 I’m interested in music and game dev
-- 🌱 I’m currently learning OpenCV and starting to learn c#
-- 💞️ I’m looking to collaborate on some python projects! 
+- 🌱 I’m currently learning TypeScript
+- 💞️ I’m looking to collaborate on some Python/TypeScript projects! 
 - 📫 How to reach me (e-mail will be added later)
 
 <!---
